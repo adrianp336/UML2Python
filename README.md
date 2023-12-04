@@ -50,14 +50,8 @@ For **Windows**:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the Python script:
 
-<img src='https://github.com/adrianp336/BitFitPt1/blob/master/walkthrough.gif' width='' alt='Video Walkthrough' />
+![UML2PythonWalkthrough](https://github.com/adrianp336/UML2Python/assets/111796949/3e670fec-2f28-4ad9-ae7a-77c5e24cd2a9)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGif
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
