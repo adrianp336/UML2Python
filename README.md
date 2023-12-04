@@ -23,13 +23,13 @@ For **Windows**:
 - Graphviz Install:
     - 64-bit: https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/9.0.0/windows_10_cmake_Release_graphviz-install-9.0.0-win64.exe
 - Add Graphviz to the system PATH (current or all Users, screenshot below)
-<img src='https://github.com/adrianp336/BitFitPt1/blob/master/walkthrough.gif' width='' alt='Video Walkthrough' />
+![InstallGraphviz](https://hackmd.io/_uploads/rk6XPT5rp.png)
 
 - Click next and Install
 - Finish Installation
 - Open CMD and install Graphviz to Python
     - Use command: `pip install graphviz`
-    <img src='https://github.com/adrianp336/BitFitPt1/blob/master/walkthrough.gif' width='' alt='Video Walkthrough' />
+    ![pipinstall](https://hackmd.io/_uploads/B1q2Pp9Sp.png)
     
 ## Instructions
 
