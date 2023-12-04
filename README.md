@@ -23,13 +23,15 @@ For **Windows**:
 - Graphviz Install:
     - 64-bit: https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/9.0.0/windows_10_cmake_Release_graphviz-install-9.0.0-win64.exe
 - Add Graphviz to the system PATH (current or all Users, screenshot below)
-![InstallGraphviz](https://hackmd.io/_uploads/rk6XPT5rp.png)
+![InstallGraphviz](https://github.com/adrianp336/UML2Python/assets/111796949/203c1b78-fa67-4159-aa75-26564dc4de6d)
+
 
 - Click next and Install
 - Finish Installation
 - Open CMD and install Graphviz to Python
     - Use command: `pip install graphviz`
-    ![pipinstall](https://hackmd.io/_uploads/B1q2Pp9Sp.png)
+    ![pipinstall](https://github.com/adrianp336/UML2Python/assets/111796949/3143fec1-f28f-4e31-93fb-00b78ba759d7)
+
     
 ## Instructions
 
