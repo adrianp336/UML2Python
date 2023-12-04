@@ -33,6 +33,8 @@ For **Windows**:
   
     ![pipinstall](https://github.com/adrianp336/UML2Python/assets/111796949/3143fec1-f28f-4e31-93fb-00b78ba759d7)
 
+- If `pip` command doesn't work, use this link for troubleshooting: https://builtin.com/software-engineering-perspectives/pip-command-not-found
+
     
 ## Instructions
 
